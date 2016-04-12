@@ -1,3 +1,2 @@
 # hello-world
-My first Github repository
-Ice Bear!
+My first Github repository!
